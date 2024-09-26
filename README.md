@@ -1,4 +1,11 @@
 <h1 align="center">University Java Repo</h1>
+
+<div align="center">
+    <a href="https://github.com/JayNightmare/Uni-Java-Commits/actions/workflows/maven.yml">
+        <img alt="Marven Condition" src="https://github.com/JayNightmare/Uni-Java-Commits/actions/workflows/maven.yml/badge.svg"/>
+    </a>
+</div>
+
 <div align="center">
     <a href="https://github.com/JayNightmare/Uni-Java-Commits/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/JayNightmare/Uni-Java-Commits?color=2db94d" />
