@@ -1,10 +1,8 @@
-// Step 1a: Create an functional interface
 public class Calculator {
+    // Step 1a: Create an functional interface
     public static void main(String[] args) {
         // Step 1b: Create an object of functional interface
-        WelcomeMessage welcome = () -> {
-            System.out.println("Welcome to my Calculator");
-        };
+        WelcomeMessage welcome = () -> System.out.println("Welcome to my Calculator");
 
         // Step 1c: Call the method of functional interface
         welcome.sayWelcome();
@@ -25,7 +23,8 @@ public class Calculator {
         ExtraFunction cube = Math::sqrt;
 
         // Step 2c: Test operations
-        int x = 10, y = 5;
+        int x = 10;
+        int y = 5;
         double z = 5;
 
 
