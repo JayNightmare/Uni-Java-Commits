@@ -20,3 +20,9 @@
     <br/>
   <p>All of my Java related projects will be stored in this repo. Don't mind the bad organisation</p>
 </div>
+
+#### Note:
+| Accounts | Redirects |
+|----------|-----------|
+| KU | [@JayBellCompaan](https://github.com/JayBellCompaan) |
+| Main | [@JayNightmare](https://github.com/JayNightmare) |
