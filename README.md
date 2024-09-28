@@ -26,3 +26,5 @@
 |----------|-----------|
 | KU | [@JayBellCompaan](https://github.com/JayBellCompaan) |
 | Main | [@JayNightmare](https://github.com/JayNightmare) |
+
+All Commits are done by main account as thats what my VSCode is attached to.
