@@ -1,4 +1,4 @@
-public class Calculator {
+public class Calculator { 
     // Step 1a: Create an functional interface
     public static void main(String[] args) {
         // Step 1b: Create an object of functional interface
