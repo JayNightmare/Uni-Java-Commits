@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 public class Calculator {
+=======
+public class Calculator { 
+>>>>>>> 63a74e1723292cf36939f621ff6b1bc5acf04f0e
     // Step 1a: Create an functional interface
     public static void main(String[] args) {
         // Step 1b: Create an object of functional interface
