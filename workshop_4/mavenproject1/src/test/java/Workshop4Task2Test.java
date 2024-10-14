@@ -1,16 +1,16 @@
-import org.junit.jupiter.api.Test;
 import java.util.Arrays;
 import java.util.List;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.Test;
 
 import com.workshop4.workshoptasks.task2.Employee;
 import com.workshop4.workshoptasks.task2.Workshop4Task2;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-
-public class Workshop4Task2Test {
+class Workshop4Task2Test {
     
     @Test
-    public void testGetAverageAge() {
+    void testGetAverageAge() {
         List<Employee> employees = Arrays.asList(
             new Employee("1", "Alice", 30, 5000),
             new Employee("2", "Bob", 25, 4000),
@@ -21,7 +21,7 @@ public class Workshop4Task2Test {
     }
 
     @Test
-    public void testIncreaseSalary() {
+    void testIncreaseSalary() {
         List<Employee> employees = Arrays.asList(
             new Employee("1", "Alice", 30, 5000),
             new Employee("2", "Bob", 25, 4000),
@@ -34,7 +34,7 @@ public class Workshop4Task2Test {
     }
 
     @Test
-    public void testGetAverageNewSalary() {
+    void testGetAverageNewSalary() {
         List<Employee> employees = Arrays.asList(
             new Employee("1", "Alice", 30, 5000),
             new Employee("2", "Bob", 25, 4000),

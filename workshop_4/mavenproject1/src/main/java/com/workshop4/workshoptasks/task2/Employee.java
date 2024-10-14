@@ -1,15 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.workshop4.workshoptasks.task2;
 
-/**
- *
- * @author jorda
- */
-
-public class Employee() {
+public class Employee {
     private String id;
     private String name;
     private int age;
@@ -39,3 +30,4 @@ public class Employee() {
         return "Employee [id=" + id + ", name=" + name + ", age=" + age + ", salary=" + salary + "]";
     }
 }
+
